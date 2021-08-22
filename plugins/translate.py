@@ -14,7 +14,7 @@ async def start(client, message):
           text =f"Hello **{message.from_user.first_name }** \n\n __I am simple Google Translater Bot \n I can translate any language to you selected language__",
           reply_to_message_id = message.message_id,
           reply_markup=InlineKeyboardMarkup(
-            [ [ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lntechnical") ],[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]   ]  ) )
+            [ [ InlineKeyboardButton("Support " ,url="https://t.me/Andu_info  ") ],[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]   ]  ) )
             
 @Client.on_message(filters.private & filters.text  )
 async def echo(client, message):
