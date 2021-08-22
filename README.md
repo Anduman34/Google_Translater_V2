@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/lntechnical2/Google_Translater_V2/stargazers">
+  <a href="https:// https://github.com/Anduman34/Google_Translater_V2/edit/main/README.md   ">
     <img src="https://img.shields.io/github/stars/lntechnical2/Google_Translater_V2?style=social">
 
   </a>
