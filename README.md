@@ -61,12 +61,12 @@ Licensed works, modifications,
 and larger works may be distributed under different terms and without source code 
 ````
 
-## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+## Support 
+<a href="  https://t.me/Andu_info ">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> YouTube </p>
+<a href=" https://t.me/Andu_info ">
+   <p> telegram </p>
   </a>
 
 ## Credits
